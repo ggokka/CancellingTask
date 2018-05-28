@@ -1,0 +1,11 @@
+G:\pilot\CancellingToken\bin\Debug\netcoreapp2.0\CancellingToken.deps.json
+G:\pilot\CancellingToken\bin\Debug\netcoreapp2.0\CancellingToken.runtimeconfig.json
+G:\pilot\CancellingToken\bin\Debug\netcoreapp2.0\CancellingToken.runtimeconfig.dev.json
+G:\pilot\CancellingToken\bin\Debug\netcoreapp2.0\CancellingToken.dll
+G:\pilot\CancellingToken\bin\Debug\netcoreapp2.0\CancellingToken.pdb
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.csprojResolveAssemblyReference.cache
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.csproj.CoreCompileInputs.cache
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.AssemblyInfoInputs.cache
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.AssemblyInfo.cs
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.dll
+G:\pilot\CancellingToken\obj\Debug\netcoreapp2.0\CancellingToken.pdb
